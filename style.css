@@ -315,7 +315,7 @@ section{
 
 .features .box-container .box{
     padding:3rem 2rem;
-    background: magenta;
+    background: rgba(106, 163, 145, 0.859);
     outline: var(--outline);
     outline-offset: -1rem;
     text-align: center;
